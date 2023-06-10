@@ -30,16 +30,13 @@ header{
 
 	margin: 20px 5px;
 
- /*  */
 
 	text-decoration: none;
 	font-size: 20px;
 	text-align: center;
 
-	/*  */
 
-	text-decoration: none;
-
+	
 }
 .images{
 	width: 20px;
@@ -54,6 +51,6 @@ header{
 	position: relative;
 
 	z-index: -1;
-	top: -95px;
-	right: -15px;
+	top: -98px;
+	right: -8px;
 }
