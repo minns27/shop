@@ -7,14 +7,15 @@ body{
 header{
 	color:#ffffff;
 }
-/* .title{
-
-} */
-
 
 
 .title_s{
 	font-style: normal;
+}
+
+
+.block:hover{
+	background-color: #b2b2b2;
 }
 
 .block{
@@ -35,9 +36,9 @@ header{
 	font-size: 20px;
 	text-align: center;
 
-
-	
 }
+
+
 .images{
 	width: 20px;
 	height: 20px;
