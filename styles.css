@@ -14,15 +14,18 @@ header{
 }
 
 
-.block:hover{
+/* .block:hover{
 	background-color: #b2b2b2;
-}
+} */
 
 .block{
 	display:block;
 	background-color: #ffffff;
+
 	width: 320px;
 	height: 85px;
+
+	
 	color: #000000;
 	font-style: normal;
 
