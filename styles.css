@@ -32,7 +32,7 @@ header{
 	border-radius: 10px;
 	border: 2px solid #000000;
 
-	margin: 20px 5px;
+	margin: -30px 5px;
 
 
 	text-decoration: none;
@@ -55,6 +55,6 @@ header{
 	position: relative;
 
 	z-index: -1;
-	top: -98px;
+	top: -48px;
 	right: -8px;
 }
