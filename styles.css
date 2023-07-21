@@ -16,7 +16,8 @@ header{
 	display:block;
 	background-color: #ffffff;
 	max-width: 320px;
-	height: 85px;
+	min-height: 85px;
+	max-height: 200px;
 	color: #000000;
 	font-style: normal;
 	border-radius: 10px;
@@ -36,7 +37,8 @@ header{
 	display:block;
 	background-color: #000000;
 	max-width: 320px;
-	height: 85px;
+	min-height: 85px;
+	max-height: 200px;
 	border-radius: 10px;
 	position: relative;
 	z-index: -1;
