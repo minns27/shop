@@ -8,52 +8,37 @@ header{
 	color:#ffffff;
 }
 
-
 .title_s{
 	font-style: normal;
 }
 
-
-/* .block:hover{
-	background-color: #b2b2b2;
-} */
-
 .block{
 	display:block;
 	background-color: #ffffff;
-
-	width: 320px;
+	max-width: 320px;
 	height: 85px;
-
-	
 	color: #000000;
 	font-style: normal;
-
 	border-radius: 10px;
 	border: 2px solid #000000;
-
 	margin: -30px 5px;
-
-
 	text-decoration: none;
 	font-size: 20px;
 	text-align: center;
-
 }
-
 
 .images{
 	width: 20px;
 	height: 20px;
 }
+
 .shadow{
 	display:block;
 	background-color: #000000;
-	width: 320px;
+	max-width: 320px;
 	height: 85px;
 	border-radius: 10px;
 	position: relative;
-
 	z-index: -1;
 	top: -48px;
 	right: -8px;
